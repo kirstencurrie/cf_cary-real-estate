@@ -1,6 +1,8 @@
 # cf_cary-real-estate
 Analysis of Cary, NC real estate properties using data science techniques to uncover market trends, value drivers, and investment insights. 
 
+- **[Link to Cary, NC Real Estate Tableau Storyboard](https://public.tableau.com/app/profile/kirsten.currie/viz/CaryNC_PropertyValueAnalysis/CaryProperties?publish=yes)**
+
 # Cary, NC Real Estate Analysis Project
 
 ## Overview

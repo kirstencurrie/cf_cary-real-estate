@@ -9,6 +9,9 @@ Analysis of Cary, NC real estate properties using data science techniques to unc
 
 This project analyzes real estate properties in Cary, North Carolina, providing insights for prospective investors and those interested in understanding the local property market. The analysis explores various factors contributing to property values in the Cary area, which is known for its higher home prices compared to other suburbs in the Raleigh/Chapel Hill/Durham "Research Triangle" region.
 
+![image of Cary, NC map that shows different property types](assets/cary_map.png)
+/cary_map.png)
+
 ## Project Structure
 
 The analysis is divided into six Jupyter notebooks, each focusing on different aspects of the data:
